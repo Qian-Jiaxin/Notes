@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "066040c3585f9094",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d572818b4867861",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "电力电子技术/电感伏秒平衡原理.md",
+            "mode": "source"
+          }
+        },
+        "group": "4c75541cc753935b"
+      },
+      {
+        "id": "61617c78467f3776",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "电力电子技术/电感伏秒平衡原理.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4c75541cc753935b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40ec2e502c754b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59794ebdec2a4580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b124ab0f91bc678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "08c1c9dfc7dc00f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04462872449224c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "22aec302eac152d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46bbdd9274bdc4c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电力电子技术/电感伏秒平衡原理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61617c78467f3776",
+  "lastOpenFiles": [
+    "电力电子技术/电感伏秒平衡原理.md",
+    "电力电子技术/隔离型直流变换电路.md",
+    "电力电子技术/非隔离型直流降压变换电路.md",
+    "电力电子技术/电容安秒平衡原理.md",
+    "电力电子技术/米勒效应.md",
+    "电力电子技术/B-H回线.md",
+    "电力电子技术/共模差模.md",
+    "电力电子技术/图片/隔离半桥Buck变换器状态切换.jpg",
+    "电力电子技术/图片/隔离全桥Buck变换器.jpg",
+    "Day Planners/Day Planner-20220427.md"
+  ]
+}
