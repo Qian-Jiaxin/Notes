@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7d572818b4867861",
+        "id": "7ba26b90659cf371",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "电力电子技术/电感伏秒平衡原理.md",
-            "mode": "source"
-          }
-        },
-        "group": "4c75541cc753935b"
-      },
-      {
-        "id": "61617c78467f3776",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "电力电子技术/电感伏秒平衡原理.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4c75541cc753935b"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电力电子技术/电感伏秒平衡原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61617c78467f3776",
+  "active": "7ba26b90659cf371",
   "lastOpenFiles": [
-    "电力电子技术/电感伏秒平衡原理.md",
-    "电力电子技术/隔离型直流变换电路.md",
-    "电力电子技术/非隔离型直流降压变换电路.md",
+    "自控原理/最小相位理论.md",
+    "电力电子技术/动态模型分析.md",
     "电力电子技术/电容安秒平衡原理.md",
+    "电力电子技术/电感伏秒平衡原理.md",
     "电力电子技术/米勒效应.md",
-    "电力电子技术/B-H回线.md",
+    "电力电子技术/非隔离型直流降压变换电路.md",
+    "电力电子技术/隔离型直流变换电路.md",
+    "电力电子技术/图片/Boost电路等效模型.jpg",
     "电力电子技术/共模差模.md",
-    "电力电子技术/图片/隔离半桥Buck变换器状态切换.jpg",
-    "电力电子技术/图片/隔离全桥Buck变换器.jpg",
-    "Day Planners/Day Planner-20220427.md"
+    "电池均衡策略/电池均衡整理.md"
   ]
 }

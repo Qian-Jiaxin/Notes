@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:电力电子技术",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.8,
+  "nodeSizeMultiplier": 0.45,
+  "lineSizeMultiplier": 1.29583333333333,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 6.62921348314607,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "centerStrength": 0.226190476190476,
+  "repelStrength": 5.83333333333333,
+  "linkStrength": 0.267857142857143,
+  "linkDistance": 120,
+  "scale": 1.0000000000000115,
   "close": false
 }
